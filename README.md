@@ -18,4 +18,4 @@ Work and life interact and are inseparable. Sometimes, meaningful work frees me 
 
 书，阳光、音乐、女人，咖啡因。
 
-Chase the pace of predecessors, 并且远离二逼。
+Chase the pace of predecessors, 并且与不良诱惑保持距离。
