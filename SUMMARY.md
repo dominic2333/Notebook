@@ -2,7 +2,7 @@
 
 * [基本盘](README.md)
 * [社会化](she-hui-hua.md)
-* [战略规划的十二大注意](zhan-lve-gui-hua-de-shi-er-da-zhu-yi.md)
+* [🏈 战略规划的十二大注意](zhan-lve-gui-hua-de-shi-er-da-zhu-yi.md)
 * [优先级](you-xian-ji.md)
 * [whatever makes you unhappy, fuck it](whatever-makes-you-unhappy-fuck-it.md)
 * [mistake](mistake.md)
