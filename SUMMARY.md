@@ -12,4 +12,4 @@
 * [杂乱的生活常识](za-luan-de-sheng-huo-chang-shi.md)
 * [用好自己这块材料](yong-hao-zi-ji-zhe-kuai-cai-liao.md)
 * [懂道理却过不好这一生](dong-dao-li-que-guo-bu-hao-zhe-yi-sheng.md)
-* [伽柳沛为什么会喜欢上我](qie-liu-pei-wei-shi-mo-hui-xi-huan-shang-wo.md)
+* [和伽柳沛的那些破事儿](he-qie-liu-pei-de-na-xie-po-shi-er.md)
