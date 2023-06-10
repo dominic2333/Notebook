@@ -4,6 +4,7 @@
 * [🇺🇸 社会化](she-hui-hua.md)
 * [🏈 战略规划的十二大注意](zhan-lve-gui-hua-de-shi-er-da-zhu-yi.md)
 * [🥀 感情失败的一些碎碎念](he-qie-liu-pei-de-na-xie-shi-er.md)
+* [🍒 学术逃兵](xue-shu-tao-bing.md)
 * [优先级](you-xian-ji.md)
 * [whatever makes you unhappy, fuck it](whatever-makes-you-unhappy-fuck-it.md)
 * [mistake](mistake.md)
@@ -13,4 +14,3 @@
 * [杂乱的生活常识](za-luan-de-sheng-huo-chang-shi.md)
 * [用好自己这块材料](yong-hao-zi-ji-zhe-kuai-cai-liao.md)
 * [懂道理却过不好这一生](dong-dao-li-que-guo-bu-hao-zhe-yi-sheng.md)
-* [Page 1](page-1.md)
