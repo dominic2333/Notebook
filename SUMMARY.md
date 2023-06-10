@@ -13,3 +13,4 @@
 * [杂乱的生活常识](za-luan-de-sheng-huo-chang-shi.md)
 * [用好自己这块材料](yong-hao-zi-ji-zhe-kuai-cai-liao.md)
 * [懂道理却过不好这一生](dong-dao-li-que-guo-bu-hao-zhe-yi-sheng.md)
+* [Page 1](page-1.md)
