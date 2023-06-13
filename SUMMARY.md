@@ -5,6 +5,7 @@
 * [👻 学术逃兵](xue-shu-tao-bing.md)
 * [🏈 战略规划的十二大注意](zhan-lve-gui-hua-de-shi-er-da-zhu-yi.md)
 * [🥀 感情失败的一些碎碎念](he-qie-liu-pei-de-na-xie-shi-er.md)
+* [💔 昔年种柳](xi-nian-zhong-liu.md)
 * [一渣到底](yi-zha-dao-di.md)
 * [优先级](you-xian-ji.md)
 * [whatever makes you unhappy, fuck it](whatever-makes-you-unhappy-fuck-it.md)
