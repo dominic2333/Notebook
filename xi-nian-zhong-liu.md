@@ -1,14 +1,5 @@
 # 💔 昔年种柳
 
-我独一无二的前女友：
+<figure><img src=".gitbook/assets/微信图片_20230614164535.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-见信好。
-
-我说你是肤浅幼稚的我所配不上的好女孩还是你生日那天，有点记不太清，我也不太清醒。
-
-全都怪我骄傲的性格，很多话都说不出口。没有怀念也不是挽留，此时此刻思绪并不复杂，只是想诚恳地向你道歉，然后心安地放下。或早或晚，这封简单的小信都会被你那娇小双手仁慈地打开。
-
-
-
-
-
+<figure><img src=".gitbook/assets/微信图片_20230614164550.jpg" alt="" width="563"><figcaption></figcaption></figure>
