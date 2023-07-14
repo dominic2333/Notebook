@@ -3,7 +3,7 @@
 * [👼 基本盘](README.md)
 * [🇺🇸 社会化](she-hui-hua.md)
 * [👻 学术逃兵](xue-shu-tao-bing.md)
-* [🌧 无法消除的mistake](wu-fa-xiao-chu-de-mistake.md)
+* [🌧 无法消除的mistake](wo-de-da-xue.md)
 * [🏈 战略规划的十二大注意](zhan-lve-gui-hua-de-shi-er-da-zhu-yi.md)
 * [🥀 感情失败的一些碎碎念](he-qie-liu-pei-de-na-xie-shi-er.md)
 * [💔 昔年种柳](xi-nian-zhong-liu.md)
